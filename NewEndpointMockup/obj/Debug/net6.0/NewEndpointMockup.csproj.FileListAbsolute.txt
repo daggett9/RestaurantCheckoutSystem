@@ -1,0 +1,15 @@
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\bin\Debug\net6.0\NewEndpointMockup.deps.json
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\bin\Debug\net6.0\NewEndpointMockup.dll
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\bin\Debug\net6.0\NewEndpointMockup.pdb
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\bin\Debug\net6.0\Utils.dll
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\bin\Debug\net6.0\Utils.pdb
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\obj\Debug\net6.0\NewEndpointMockup.csproj.AssemblyReference.cache
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\obj\Debug\net6.0\NewEndpointMockup.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\obj\Debug\net6.0\NewEndpointMockup.AssemblyInfoInputs.cache
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\obj\Debug\net6.0\NewEndpointMockup.AssemblyInfo.cs
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\obj\Debug\net6.0\NewEndpointMockup.csproj.CoreCompileInputs.cache
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\obj\Debug\net6.0\NewEndpointMockup.csproj.CopyComplete
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\obj\Debug\net6.0\NewEndpointMockup.dll
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\obj\Debug\net6.0\refint\NewEndpointMockup.dll
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\obj\Debug\net6.0\NewEndpointMockup.pdb
+D:\repos\Restaurant.Automation\Restaurant.Automation\NewEndpointMockup\obj\Debug\net6.0\ref\NewEndpointMockup.dll
